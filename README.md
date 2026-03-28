@@ -16,6 +16,5 @@ EduSmart adalah sebuah *landing page* responsif yang dirancang untuk mempromosik
 * **Google Fonts:** Menggunakan font 'Poppins' agar tampilan lebih modern.
 
 ## Demo Live
-Kamu bisa melihat hasil jadinya di sini:  
 [https://username-kamu.github.io/nama-repo-kamu/](https://username-kamu.github.io/nama-repo-kamu/)
 
