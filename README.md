@@ -8,14 +8,6 @@ Visit Site:
 
 ---
 
-## Informasi Mahasiswa
-* **Nama:** [Nama Lengkap Kamu]
-* **NIM:** [Nomor Induk Mahasiswa Kamu]
-* **Mata Kuliah:** [Nama Mata Kuliah, misal: Pemrograman Web]
-* **Dosen/Asisten:** [Nama Dosen/Asprak]
-
----
-
 ## Fitur dan Implementasi Teknis
 
 ### 1. Arsitektur Kode
