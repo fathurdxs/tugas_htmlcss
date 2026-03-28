@@ -4,7 +4,7 @@ Proyek ini adalah implementasi *Landing Page* untuk platform kursus online berna
 
 ---
 
-Visit Site: 
+Visit Site: https://fathurdxs.github.io/dxktbd_tutor/
 
 ---
 
